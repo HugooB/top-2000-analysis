@@ -13,10 +13,13 @@ def count_artists(artist, data):
     # Select all songs of this artist
     songs_list = data[data['Artiest'] == artist]
     print str(len(songs_list)) + " songs of " + str(artist) + " found!"
+    print songs_list
     return songs_list
 
 
 def visualize_color_counts(artist, song_list):
+    # Switch all 0 with 2001 to let songs start on the right side of the graph
+    song_list = song_list.replace(0, 2001)
     # Plot the song's positions of the selected artist
     plt.figure()
     for index, row in song_list.iterrows():
