@@ -29,10 +29,20 @@ def count_colors(data):
     black_arr = []
     white_arr = []
 
+    # Names of the songs
+    red_songs = []
+    blue_songs = []
+    green_songs = []
+    yellow_songs = []
+    purple_songs = []
+    orange_songs = []
+
+    white_songs = []
+
     # Loop over each year
     years = data.columns[3:]
     for year in years:
-
+        black_songs = []
         # Loop over all songs of that year
         print "Now analysing: " + str(year)
         data_year = data[data[year] >= 1]
@@ -67,6 +77,7 @@ def count_colors(data):
                 for black in black_list:
                     if black in text:
                         blacks = blacks + 1
+                        black_songs.append(row['Titel'] + " - " + row['Artiest'])
                 for white in white_list:
                     if white in text:
                         whites = whites + 1
@@ -80,6 +91,7 @@ def count_colors(data):
         orange_arr.append(oranges)
         black_arr.append(blacks)
         white_arr.append(whites)
+        print black_songs
 
     # Combine it all to one dataframe
     years = pd.Series(years, name='Jaar')
