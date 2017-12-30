@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 def load_data():
     # Read in file
-    data = pd.read_excel("Top2000 1999-2017.xlsx", header=0)
+    data = pd.read_excel("..\Top2000 1999-2017.xlsx", header=0)
     return data
 
 
