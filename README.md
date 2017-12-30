@@ -34,4 +34,25 @@ Naar aanleiding van een de uitzending van de Top 2000 editie 2017 kwam een discu
 #### Figuur
 ![alt text](https://github.com/HugooB/top-2000-analysis/blob/master/Kleuren%20van%20de%20Top2000.png "Kleuren van de Top 2000")
 
-Zoals te zien is in de bovenstaande figuur neemt het aantal nummers met zwart en wit in de titel toe, terwijl artiesten relatief minder over de kleur blauw zingen. De kleuren geel, groen en paars zijn over de jaren heen stabiel en nog nooit heeft een nummer over de kleur oranje de lijst gehaald.
+Zoals te zien is in de bovenstaande figuur neemt het aantal platen met zwart en wit in de titel toe, terwijl de gekozen artiesten relatief minder over de kleur blauw zingen. De kleuren geel, groen en paars zijn over de jaren heen stabiel en nog nooit heeft een nummer over de kleur oranje de lijst gehaald.
+
+Zie hier bijvoorbeeld het verschil tussen 1999 en 2017:
+
+| 1999 (6 platen)                     | 2017 (16 platen)                         |
+|-------------------------------------|------------------------------------------|
+| Paint It Black - The Rolling Stones | Black - Pearl Jam                        |
+| Black Magic Woman - Santana         | Back To Black - Amy Winehouse            |
+| Black Betty - Ram Jam               | Paint It Black - The Rolling Stones      |
+| Zwart Wit - Frank Boeijen Groep     | Black Hole Sun - Soundgarden             |
+| Black Is Black - Los Bravos         | Back In Black - Ac/Dc                    |
+| Black Pearl - Margriet Eshuijs Band | Fade To Black - Metallica                |
+|                                     | Little Black Submarines - The Black Keys |
+|                                     | Black Magic Woman - Santana              |
+|                                     | Supermassive Black Hole - Muse           |
+|                                     | Black Betty - Ram Jam                    |
+|                                     | Black Or White - Michael Jackson         |
+|                                     | Zwart Wit - Frank Boeijen Groep          |
+|                                     | Black Velvet - Alannah Myles             |
+|                                     | Black Night - Deep Purple                |
+|                                     | Black Dog - Led Zeppelin                 |
+|                                     | Black Magic Woman - Fleetwood Mac        |
