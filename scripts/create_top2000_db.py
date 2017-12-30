@@ -63,4 +63,3 @@ if __name__ == '__main__':
     print "Now saving..."
     save_file(full_top2000)
     print "Saved!"
-
