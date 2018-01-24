@@ -17,7 +17,7 @@ def count_artists(artist, data):
     return songs_list
 
 
-def visualize_color_counts(artist, song_list):
+def visualize_artist_counts(artist, song_list):
     # Switch all 0 with 2001 to let songs start on the right side of the graph
     song_list = song_list.replace(0, 2001)
     # Plot the song's positions of the selected artist
@@ -43,6 +43,6 @@ if __name__ == '__main__':
     song_list = count_artists(artist, top2000)
     if len(song_list) > 0:
         # Visualize results
-        visualize_color_counts(artist, song_list)
+        visualize_artist_counts(artist, song_list)
     else:
         print "Artist can not be found!"
