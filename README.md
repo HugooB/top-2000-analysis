@@ -2,7 +2,7 @@
 _A Python based script to analyse the NPO Radio 2 Top 2000_
 
 ## Data
-In de data map zijn verschillende data bestanden te vinden waarmee geprobeerd is een compleet bestand van alle edities van de Top 2000 van 1999 tot 2017 te maken. Uiteindelijk is deze complete lijst simpelweg van [Wikipedia](https://nl.wikipedia.org/wiki/Lijst_van_Radio_2-Top_2000%27s) gekopieerd en omgezet naar werkbaar formaat.
+In de data map zijn verschillende data bestanden te vinden waarmee geprobeerd is een compleet bestand van alle edities van de Top 2000 van 1999 tot 2017 te maken. Uiteindelijk is deze complete lijst simpelweg van [Wikipedia](https://nl.wikipedia.org/wiki/Lijst_van_Radio_2-Top_2000%27s) gekopieerd en omgezet naar werkbaar formaat in het bestand [`Top2000 1999-2017.xlsx`](https://github.com/HugooB/top-2000-analysis/blob/master/Top2000%201999-2017.xlsx)
 
 ## Kleuren analyse
 Naar aanleiding van een de uitzending van de Top 2000 editie 2017 kwam een discussie over kleuren in muziek naar boven. Geïnteresseerd over de verdeling van kleuren in de Top 2000 en of deze zouden veranderen over het verloop van tijd, is deze analyse gemaakt. De resultaten zijn in onderstaande tabel te zien en daaronder visueel in de grafiek.
